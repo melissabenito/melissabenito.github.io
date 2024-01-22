@@ -9,7 +9,7 @@ _Da click en la imagen para acceder al recurso_
 
 [![Peste](https://img.youtube.com/vi/RRJJFnOm1eU/0.jpg)](https://www.youtube.com/watch?v=RRJJFnOm1eU)
 
-### Definiciones 
+### Definiciones según la NTS N°083-MINSA/DGSP.V.01 Norma técnica de salud para la vigilancia, prevención y control de la peste en el Perú
 #### Caso sospechoso
 “Paciente con presentación clínica compatible, y con antecedentes epidemiológicos consistentes en:
 - “Exposición a humanos o animales infectados y/o
