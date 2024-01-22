@@ -123,7 +123,8 @@ _Da click en el enlace para acceder al recurso_
 - “Todo caso probable en una localidad donde se han confirmado casos de cólera en las últimas 2 semanas
 - “Todo caso probable durante un brote o epidemia donde se ha confirmado el Vibrio cholerae O1 u O139 en los nuevos casos
 - “Todo caso probable que es contacto familiar de un caso confirmado
-### Caso compatible de cólera
+
+#### Caso compatible de cólera
 “Cualquier caso clasificado como sospechoso o probable que no puede ser confirmado o descartado en un lapso de treinta (30) días posteriores a la clasificación inicial, en ausencia de actividad epidémica.
 
 #### Caso de portador asintomático de _Vibrio cholerae_
