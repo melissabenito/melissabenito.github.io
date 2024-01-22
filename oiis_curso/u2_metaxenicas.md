@@ -45,6 +45,7 @@ El cuadro clínico de fiebre amarilla tiene 3 fases:
 1. “Fase de infección, congestiva o roja (0 a 5 días)
 2. Fase de remisión transitoria (horas a 2 días)
 3. Fase de intoxicación, amarilla o ictero-hemorrágica (hasta el décimo día de enfermedad)
+
 Signos de alarma:
 - “Vómitos persistentes: más de 3 vómitos en 1 hora, o 4 vómitos en 6 horas
 - Alteración del sensorio: excitación psicomotriz o bradipsiquia, puede tratarse de encefalopatía hepática, alteración hidroelectrolítica o hipoglicemia, entre otros
@@ -70,9 +71,7 @@ Signos de alarma:
 
 **Caso confirmado de fiebre amarilla**
 
-**Por laboratorio**: 
-
-“Todo síndrome febril o caso probable cuyo resultado de laboratorio es positivo por uno o más de los métodos siguientes:
+**Por laboratorio**: “Todo síndrome febril o caso probable cuyo resultado de laboratorio es positivo por uno o más de los métodos siguientes:
 
 En suero
 - Aislamiento del virus de la fiebre amarilla
@@ -80,11 +79,13 @@ En suero
 - qRT-PCR para fiebre amarilla
 - Evidencia de seroconversión en IgM en muestras pareadas, la segunda muestra deberá ser tomada después de los 14 días del inicio de síntomas (en zonas donde hay transmisión)
 - Detección de anticuerpos de neutralización para fiebre amarilla
+
 En tejidos
 - Inmunohistoquímica específica (post mortem)
 - qRT-PCR para fiebre amarilla
 
 **Por nexo epidemiológico:**
+
 “Contacto de uno o más casos sospechosos con uno o más casos confirmados, procedentes de la misma área endemo-enzoótica
 
 "Contacto de un caso sospechoso que fallece en menos de 10 días, sin confirmación por laboratorio y que provenga de área donde hay casos confirmados
