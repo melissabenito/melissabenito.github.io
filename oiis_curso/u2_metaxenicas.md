@@ -56,6 +56,7 @@ Signos de alarma:
 #### Definiciones operativas según el Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla, 2016
 
 **Caso probable de fiebre amarilla**
+
 “Toda persona de cualquier edad procedente de zona endémica de fiebre amarilla, con fiebre de inicio súbito hasta 07 días de evolución, seguido de ictericia, que reside o ha visitado zonas endémicas en los últimos 14 días, con o sin vacunación contra fiebre amarilla y que presenta una o más de las siguientes manifestaciones clínicas:
 - Escalofríos
 - Cefalea intensa
@@ -70,6 +71,7 @@ Signos de alarma:
 **Caso confirmado de fiebre amarilla**
 
 **Por laboratorio**: 
+
 “Todo síndrome febril o caso probable cuyo resultado de laboratorio es positivo por uno o más de los métodos siguientes:
 
 En suero
@@ -84,9 +86,11 @@ En tejidos
 
 **Por nexo epidemiológico:**
 “Contacto de uno o más casos sospechosos con uno o más casos confirmados, procedentes de la misma área endemo-enzoótica
+
 "Contacto de un caso sospechoso que fallece en menos de 10 días, sin confirmación por laboratorio y que provenga de área donde hay casos confirmados
 
 **Caso descartado de fiebre amarilla**
+
 “Todo caso probable en el que después de la investigación epidemiológica se encuentre lo siguiente:
 - Antecedente vacunal con evidencia de seroconversión
 - Pruebas de laboratorio negativas para fiebre amarilla
@@ -103,8 +107,9 @@ En su forma aguda, llamada fiebre de la Oroya, esta enfermedad puede tener hasta
 El diagnóstico se hace mediante frotis de muestra de sangre y gota gruesa. También se debe obtener muestras al menos tras 24 horas, 72 horas y al día 5, para seguimiento. Para confirmar el diagnóstico, hacer seguimiento y detectar asintomáticos, se puede utilizar hemocultivo y serología.
 ### Cuadro clínico 
 Tiene tres formas clínicas: aguda anemizante, crónica verrucosa, bacteriemia asintomática. Los síntomas más frecuentes según la forma clínica son:
-Forma aguda anemizante: hiporexia, malestar, decaimiento, dolor osteomuscular, artralgias, fiebre, cefalea, náuseas y vómitos, distensión, dolor abdominal, palidez de rápida instalación secundaria a anemia aguda, vértigo, disnea, ictericia, postración, trastornos del sensorio
-Forma verrucosa: presentación miliar, nodular o mular, sangrado de las verrugas, dolores articulares, infección dérmica sobreagregada, fiebre leve, mialgia, prurito, palidez, adenomegalia
+- Forma aguda anemizante: hiporexia, malestar, decaimiento, dolor osteomuscular, artralgias, fiebre, cefalea, náuseas y vómitos, distensión, dolor abdominal, palidez de rápida instalación secundaria a anemia aguda, vértigo, disnea, ictericia, postración, trastornos del sensorio
+- Forma verrucosa: presentación miliar, nodular o mular, sangrado de las verrugas, dolores articulares, infección dérmica sobreagregada, fiebre leve, mialgia, prurito, palidez, adenomegalia
+
 Los individuos con bacteriemia asintomática pueden ser reservorios en las áreas endémicas.
 
 **Criterio epidemiológico para bartonelosis aguda**
