@@ -7,7 +7,9 @@ _Da click en el enlace para acceder al recurso_
 [![Prevención de picaduras por _Aedes aegypti_](https://img.youtube.com/vi/jKMvqzjpA0Q/0.jpg)](https://www.youtube.com/watch?v=jKMvqzjpA0Q)
 ### Infografías 
 #### El zancudo *Aedes aegypti*
-![[arbovirosis 1.jpg]]Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/691649641750872068](https://twitter.com/INS_Peru/status/691649641750872068)
+![arbovirosis 1.jpg](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/u2_metaxenicas.md)
+
+Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/691649641750872068](https://twitter.com/INS_Peru/status/691649641750872068)
 #### Dengue
 ![[arbovirosis 2.jpg]]
 Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/593151410805538816](https://twitter.com/INS_Peru/status/593151410805538816)
