@@ -1,12 +1,15 @@
 # Unidad 5: Enfermedades zoonóticas y otras
 ## Leptospirosis: Contaminación del agua y alimentos 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x4YNzmd-ukc?si=P-zYwtGE9ST2OcQf&amp;start=231" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![Leptospirosis](https://img.youtube.com/vi/x4YNzmd-ukc/0.jpg)](https://www.youtube.com/watch?v=x4YNzmd-ukc)
 
 ## Peste 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RRJJFnOm1eU?si=wN4iLghsN8bmTr2H&amp;start=514" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-### Definiciones 
-Norma técnica de salud para la vigilancia, prevención y control de la peste en el Perú
+_Da click en la imagen para acceder al recurso_
 
+[![Peste](https://img.youtube.com/vi/RRJJFnOm1eU/0.jpg)](https://www.youtube.com/watch?v=RRJJFnOm1eU)
+
+### Definiciones 
 #### Caso sospechoso
 “Paciente con presentación clínica compatible, y con antecedentes epidemiológicos consistentes en:
 - “Exposición a humanos o animales infectados y/o
@@ -28,28 +31,27 @@ En área endémica conocida: un caso probable es un paciente que cumple la defin
 - Una elevación en 4 títulos de anticuerpos anti-F1 en muestras de suero pareadas; o
 - En áreas endémicas donde no pueda ser realizada otra prueba confirmatoria, una prueba rápida positiva usando una prueba inmunocromatográfica para detectar antígeno F1”
 
-Fuente: MINSA. RM N° 684-2010/MINSA NTS N°083-MINSA/DGSP.V.01 Norma técnica de salud para la vigilancia, prevención y control de la peste en el Perú. 2010.
+>Fuente: MINSA. RM N° 684-2010/MINSA NTS N°083-MINSA/DGSP.V.01 Norma técnica de salud para la vigilancia, prevención y control de la peste en el Perú. 2010.
 
-Puedes consultar la norma en:
-![[peste.png]]
-Imagen “peste” con hipervínculo al pdf “Peste-Manejo, Vigilancia-2010-MINSA”
+Puedes consultar la norma ![aquí.](peste.pdf)
 
 ## Rabia 
-Definiciones según la Norma Técnica de Salud N° 131 – MINSA/2017/DGIESP Norma técnica de salud para la vigilancia, prevención y control de la rabia humana en el Perú
+### Definiciones según la Norma Técnica de Salud N° 131 – MINSA/2017/DGIESP Norma técnica de salud para la vigilancia, prevención y control de la rabia humana en el Perú
 
-### Caso probable de rabia canina
+#### Caso probable de rabia canina
 “Perro con cambio de conducta que se esconde en lugares oscuros o muestra intranquilidad, posteriormente se torna agresivo, con tendencia a morder objetos y todo lo que se mueve, hay sialorrea, alteración del ladrido por parálisis de músculos laríngeos y cuerdas vocales, el animal tiende a fugar de su domicilio, luego sobreviene incoordinación muscular, parálisis de las extremidades posteriores y muerte. Con un tiempo de enfermedad no mayor a 10 días, algunas veces el cuadro clínico solo muestra síntomas de parálisis y muerte
-### Caso confirmado de rabia canina
+#### Caso confirmado de rabia canina
 “Con un resultado positivo de cualquiera de las pruebas de laboratorio
-### Caso probable de rabia humana
+#### Caso probable de rabia humana
 “Paciente con síndrome neurológico agudo (encefalitis) dominado por formas de hiperactividad, seguido de síndromes paralíticos que progresan hacia el coma y muerte por insuficiencia respiratoria entre 4 y 10 días después de la aparición del primer síntoma. Con antecedente de mordedura, arañazo o contacto con un animal sospechoso de rabia u otra condición de exposición (trasplantes, riesgo ocupacional).
-### Caso confirmado de rabia humana
+#### Caso confirmado de rabia humana
 “Un caso probable que es confirmado por laboratorio, mediante los resultados positivos de las pruebas de inmunofluorescencia directa (IFD), cultivo celular, inoculación en ratones o RT-PCR, anticuerpos neutralizantes en líquido cefalorraquídeo.”
 
-Fuente: MINSA. Norma Técnica de Salud N° 131 – MINSA/2017/DGIESP Norma técnica de salud para la vigilancia, prevención y control de la rabia humana en el Perú. 2017.
+>Fuente: MINSA. Norma Técnica de Salud N° 131 – MINSA/2017/DGIESP Norma técnica de salud para la vigilancia, prevención y control de la rabia humana en el Perú. 2017.
 
-Puedes consultar más al respecto en la guía: 
-![[rabia.png]]Imagen “rabia” con hipervínculo a pdf Rabia humana-Manejo, Vigilancia-2017-MINSA
+Puedes consultar la norma ![aquí.](rabia.pdf)
 
 ## ¿Qué es el síndrome de Guillain Barré? 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z6gHq-DHcYo?si=40LR7Je2vFTAhSFh&amp;start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![Síndrome de Guillain Barré](https://img.youtube.com/vi/z6gHq-DHcYo/0.jpg)](https://www.youtube.com/watch?v=z6gHq-DHcYo)
