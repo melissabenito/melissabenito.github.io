@@ -22,6 +22,7 @@ Infección que compromete una o más partes del aparato respiratorio con duraci�
 - Respiración ruidosa
 - Dificultad respiratoria
 - Con o sin fiebre
+
 En desastres, se ve un incremento de IRAs hasta 3 meses después del evento.
 
 ## Diferencias y similitudes TB, resfrío, gripe y COVID-19 
@@ -95,11 +96,13 @@ Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022
 
 En la clasificación se debe especificar si se trata de una EDA acuosa o disentérica según la definición.”
 
->Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
+>Fuente:
+>MINSA. RM 755-2017. Guía de práctica clínica para el diagnóstico y tratamiento de la enfermedad diarreica aguda en la niña y el niño. 2017
+>MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
 
 Puedes consultar más en las siguientes guías:
-- ![Manejo de EDAs](eda_manejo.pdf)
-- ![Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú](eda_vigilancia.pdf)
+- [Manejo de EDAs](eda_manejo.pdf)
+- [Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú](eda_vigilancia.pdf)
 
 ## Cólera 
 _Da click en el enlace para acceder al recurso_
@@ -131,7 +134,7 @@ Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022
 ### Caso descartado de cólera
 “Todo caso sospechoso o probable en el que por coprocultivo de _Vibrio cholerae_ no se aísla el agente etiológico o no se confirma por otro método, y sin nexo epidemiológico.”
 
-Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
+>Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
 
 ## Parasitosis 
 _Da click en el enlace para acceder al recurso_
