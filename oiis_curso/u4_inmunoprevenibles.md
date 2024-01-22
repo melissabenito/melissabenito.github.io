@@ -1,18 +1,30 @@
 # Unidad 4: Enfermedades inmunoprevenibles 
 ## Actualización del esquema de vacunación 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Have7Hsjq8?si=-2SmwiInv0GrDSfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Esquema de vacunación](https://img.youtube.com/vi/3Have7Hsjq8/0.jpg)](https://www.youtube.com/watch?v=3Have7Hsjq8)
+
 ### Infografía 
-![[Pasted image 20240119175541.png]]Fuente: MINSA 
+![esquema-vacunacion.png](esquema-vacunacion.png)
+
+Fuente: MINSA
 
 ## Enfermedades eruptivas infantiles 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kPnkDPnPr1o?si=NWNb4mc8Ogvf-gE9&amp;start=105" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Enfermedades eruptivas infantiles](https://img.youtube.com/vi/kPnkDPnPr1o/0.jpg)](https://www.youtube.com/watch?v=kPnkDPnPr1o)
+
 ## Sarampión: Diagnóstico diferencial y vigilancia epidemiológica 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TLb-6tLU18U?si=v2X8hFvUd3BJyI4l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Sarampión](https://img.youtube.com/vi/TLb-6tLU18U/0.jpg)](https://www.youtube.com/watch?v=TLb-6tLU18U)
+
 ## Tos convulsiva (coqueluche): Generalidades
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KHdKsfiCF4?si=AbUlK71geLYsmXxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Tos convulsiva](https://img.youtube.com/vi/6KHdKsfiCF4/0.jpg)](https://www.youtube.com/watch?v=6KHdKsfiCF4)
 
 ## Meningitis: Generalidades 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lTtaidsGi88?si=kwSi6qIQL_dismxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
 
-
-
+[![Meningitis](https://img.youtube.com/vi/lTtaidsGi88/0.jpg)](https://www.youtube.com/watch?v=lTtaidsGi88)
