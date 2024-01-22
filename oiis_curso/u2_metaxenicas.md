@@ -11,7 +11,8 @@ _Da click en el enlace para acceder al recurso_
 
 Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/691649641750872068](https://twitter.com/INS_Peru/status/691649641750872068)
 #### Dengue
-![[arbovirosis 2.jpg]]
+![arbovirosis2.jpg](arbovirosis2.jpg)
+
 Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/593151410805538816](https://twitter.com/INS_Peru/status/593151410805538816)
 
 ## Enfermedades transmitidas por vectores y por aguas contaminadas
@@ -43,9 +44,9 @@ _Da click en el enlace para acceder al recurso_
 *Fuente: Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla, MINSA 2016*
 #### Cuadro clínico
 El cuadro clínico de fiebre amarilla tiene 3 fases:
-1.     “Fase de infección, congestiva o roja (0 a 5 días)
-2.     Fase de remisión transitoria (horas a 2 días)
-3.     Fase de intoxicación, amarilla o ictero-hemorrágica (hasta el décimo día de enfermedad)
+1. “Fase de infección, congestiva o roja (0 a 5 días)
+2. Fase de remisión transitoria (horas a 2 días)
+3. Fase de intoxicación, amarilla o ictero-hemorrágica (hasta el décimo día de enfermedad)
 Signos de alarma:
 - “Vómitos persistentes: más de 3 vómitos en 1 hora, o 4 vómitos en 6 horas
 - Alteración del sensorio: excitación psicomotriz o bradipsiquia, puede tratarse de encefalopatía hepática, alteración hidroelectrolítica o hipoglicemia, entre otros
@@ -92,8 +93,8 @@ En tejidos
 - Ausencia de nexo epidemiológico
 - Evidencia de otro diagnóstico alternativo, confirmado por laboratorio”
 Puedes consultar las recomendaciones sobre el manejo de fiebre amarilla en el siguiente documento:
-![[fiebre amarilla.png]]
-Fiebre amarilla-Manejo, Vigilancia-2016-MINSA.pdf
+![fiebre-amarilla.png](fiebre-amarilla.png)
+![fiebreamarilla.pdf](fiebreamarilla.pdf)
 
 Fuente: PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla. 2016.
 
@@ -145,7 +146,8 @@ El antibiótico de primera línea para niños y adolescentes menores de 14 años
 
 Los pacientes con bartonelosis aguda grave, así como los pacientes con bartonelosis crónica eruptiva y bacteriemia asintomática, requieren un esquema de manejo distinto que puedes revisar en la guía técnica: 
 
-![[barton.png]]Imagen con hipervínculo al pdf: Bartonelosis-Manejo, Vigilancia-2004-MINSA 
+![bartonelosis.png](bartonelosis.png)
+Imagen con hipervínculo al pdf: Bartonelosis-Manejo, Vigilancia-2004-MINSA 
 
 Fuente: MINSA. Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú. 2004
 
