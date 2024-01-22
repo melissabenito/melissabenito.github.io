@@ -107,18 +107,18 @@ _Da click en el enlace para acceder al recurso_
 
 [![Cólera](https://img.youtube.com/vi/G4ceBUtmG0U/0.jpg)](https://www.youtube.com/watch?v=G4ceBUtmG0U)
 
-Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú
+### Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú
 
-### Caso sospechoso de cólera
+#### Caso sospechoso de cólera
 “Persona de cualquier edad que presenta un cuadro de diarrea acuosa de aparición brusca que lleva rápidamente a la deshidratación.
 “Esta definición tiene mayor utilidad durante un brote o epidemia, con el fin de captar precozmente los casos
 
-### Caso probable de cólera
+#### Caso probable de cólera
 1. “Persona de cualquier edad que presenta bruscamente un cuadro clínico de diarrea acuosa con o sin vómitos, con deshidratación severa o shock, y sin presencia de fiebre; o
 2. “Persona de cualquier edad que muere por un cuadro de enfermedad diarreica aguda acuosa
 “Esta definición tiene mayor utilidad en ausencia de actividad epidémica o cuando la incidencia es baja, cada caso debe ser investigado
 
-### Caso confirmado de cólera
+#### Caso confirmado de cólera
 “Caso sospechoso o probable con aislamiento por coprocultivo de _Vibrio cholerae_ O1 u O139 u otro método de diagnóstico (PCR, entre otros)
 - “Todo caso probable en una localidad donde se han confirmado casos de cólera en las últimas 2 semanas
 - “Todo caso probable durante un brote o epidemia donde se ha confirmado el Vibrio cholerae O1 u O139 en los nuevos casos
@@ -126,10 +126,10 @@ Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022
 ### Caso compatible de cólera
 “Cualquier caso clasificado como sospechoso o probable que no puede ser confirmado o descartado en un lapso de treinta (30) días posteriores a la clasificación inicial, en ausencia de actividad epidémica.
 
-### Caso de portador asintomático de _Vibrio cholerae_
+#### Caso de portador asintomático de _Vibrio cholerae_
 “Toda persona en quien se ha aislado _Vibrio cholerae_ O1 y O139, sin evidencia de cuadro clínico
 
-### Caso descartado de cólera
+#### Caso descartado de cólera
 “Todo caso sospechoso o probable en el que por coprocultivo de _Vibrio cholerae_ no se aísla el agente etiológico o no se confirma por otro método, y sin nexo epidemiológico.”
 
 >Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
