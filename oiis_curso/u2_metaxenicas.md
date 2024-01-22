@@ -2,7 +2,7 @@
 ## Manejo de infecciones metaxénicas asociadas a lluvias e inundaciones 
 *sube el video* 
 ## Cómo protegerte contra las picaduras de mosquito y el dengue 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Prevención de picaduras por _Aedes aegypti_](https://img.youtube.com/vi/jKMvqzjpA0Q/0.jpg)](https://www.youtube.com/watch?v=jKMvqzjpA0Q)
 ### Infografía sobre El zancudo *Aedes aegypti*
@@ -15,25 +15,25 @@ Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/691649641750872
 Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/593151410805538816](https://twitter.com/INS_Peru/status/593151410805538816)
 
 ## Enfermedades transmitidas por vectores y por aguas contaminadas
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Enfermedades transmitidas por vectores y por aguas contaminadas](https://img.youtube.com/vi/gUWtcNvaFmM/0.jpg)](https://www.youtube.com/watch?v=gUWtcNvaFmM)
 
 ## Manejo clínico y vigilancia epidemiológica de dengue 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Manejo clínico y vigilancia epidemiológica de dengue](https://img.youtube.com/vi/nqQ59QECw-8/0.jpg)](https://www.youtube.com/watch?v=nqQ59QECw-8)
 ## Presentación de casos clínicos de dengue 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Presentación de casos clínicos de dengue](https://img.youtube.com/vi/HoPDbyccxBY/0.jpg)](https://www.youtube.com/watch?v=HoPDbyccxBY)
 ## Fiebre chikungunya 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Fiebre chikungunya](https://img.youtube.com/vi/fVhG_i1kjbY/0.jpg)](https://www.youtube.com/watch?v=fVhG_i1kjbY)
 
 ## Fiebre amarilla 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Fiebre amarilla](https://img.youtube.com/vi/Ya2fJi6mN80/0.jpg)](https://www.youtube.com/watch?v=Ya2fJi6mN80)
 
@@ -146,21 +146,21 @@ Los pacientes con bartonelosis aguda grave, así como los pacientes con bartonel
 >Fuente: MINSA. Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú. 2004
 
 ## Infecciones por Bartonella cutánea 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Infecciones por Bartonella cutánea](https://img.youtube.com/vi/AKLIU16apsU/0.jpg)](https://www.youtube.com/watch?v=AKLIU16apsU)
 
 ## Leishmaniasis 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Leishmaniasis](https://img.youtube.com/vi/jmeFXGe2Zjk/0.jpg)](https://www.youtube.com/watch?v=jmeFXGe2Zjk)
 
 ## Malaria, dengue y chikungunya 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Malaria, dengue y chikungunya](https://img.youtube.com/vi/uVzo0se3vYQ/0.jpg)](https://www.youtube.com/watch?v=uVzo0se3vYQ)
 
 ## Fiebre chikungunya 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Fiebre chikungunya](https://img.youtube.com/vi/fVhG_i1kjbY/0.jpg)](https://www.youtube.com/watch?v=fVhG_i1kjbY)
