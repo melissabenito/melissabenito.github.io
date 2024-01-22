@@ -1,6 +1,6 @@
 # Unidad 1: Desastres 
 ## Intervención Sanitaria ante el Fenómeno El Niño Global 
-[![Intervención sanitaria ante el Fenómeno El Niño Global](https://img.youtube.com/vi/Owaoh9-2sZU/0.jpg)](https://www.youtube.com/watch?v=Owaoh9-2sZU)
+[![Intervención sanitaria ante el Fenómeno El Niño Global](https://img.youtube.com/vi/Owaoh9-2sZU/0.jpg)](https://www.youtube.com/watch?v=Owaoh9-2sZU?t=454)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Owaoh9-2sZU?si=hGB7SQ99PH010wde&amp;start=454" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
