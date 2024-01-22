@@ -1,8 +1,11 @@
 # Unidad 3: Principales síndromes e infecciones 
 ## Infecciones respiratorias: Medidas prácticas para evitar contagios 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pyC1Lce3APw?si=M4pOjVXb20PW1bki&amp;start=53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Intervención sanitaria ante el Fenómeno El Niño Global](https://img.youtube.com/vi/pyC1Lce3APw/0.jpg)](https://www.youtube.com/watch?v=pyC1Lce3APw)
+
 ### Infografía 
-![[medidas.png]]
+[medidas.png](medidas.png)
 
 ## IRAs 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_l4nmA9H28?si=66KLXNAZjreSNR_p&amp;start=235" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
