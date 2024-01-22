@@ -1,14 +1,17 @@
 # Unidad 1: Desastres 
 ## Intervención Sanitaria ante el Fenómeno El Niño Global 
 _Da click en el enlace para acceder al recurso_
+
 [![Intervención sanitaria ante el Fenómeno El Niño Global](https://img.youtube.com/vi/Owaoh9-2sZU/0.jpg)](https://www.youtube.com/watch?v=Owaoh9-2sZU)
 
 ## Impacto ambiental por huaicos
 _Da click en el enlace para acceder al recurso_
+
 [![Impacto ambiental por huaicos](https://img.youtube.com/vi/c_cDc3FQIA8/0.jpg)](https://www.youtube.com/watch?v=c_cDc3FQIA8)
 
 ## Afrontando la tormenta: Cuidado de la salud mental en tiempos de incertidumbre
 _Da click en el enlace para acceder al recurso_
+
 [![Cuidando la salud mental](https://img.youtube.com/vi/us7u_ecBscE/0.jpg)](https://www.youtube.com/watch?v=us7u_ecBscE)
 ## Repasa conceptos básicos sobre desastres 
 Puedes repasar los conceptos clave de esta unidad con estas flashcards. 
