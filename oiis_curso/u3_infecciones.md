@@ -1,6 +1,6 @@
 # Unidad 3: Principales síndromes e infecciones 
 ## Infecciones respiratorias: Medidas prácticas para evitar contagios 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Previniendo el contagio de infecciones respiratorias](https://img.youtube.com/vi/pyC1Lce3APw/0.jpg)](https://www.youtube.com/watch?v=pyC1Lce3APw)
 
@@ -8,7 +8,7 @@ _Da click en el enlace para acceder al recurso_
 ![medidas.png](medidas.png)
 
 ## IRAs 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![IRAs](https://img.youtube.com/vi/2_l4nmA9H28/0.jpg)](https://www.youtube.com/watch?v=2_l4nmA9H28)
 
@@ -26,17 +26,17 @@ Infección que compromete una o más partes del aparato respiratorio con duraci�
 En desastres, se ve un incremento de IRAs hasta 3 meses después del evento.
 
 ## Diferencias y similitudes TB, resfrío, gripe y COVID-19 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Diferencias y similitudes TB, resfrío, gripe y COVID-19](https://img.youtube.com/vi/pXE4UFKk4Ts/0.jpg)](https://www.youtube.com/watch?v=pXE4UFKk4Ts)
 
 ## Neumonía adquirida en la comunidad 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![NAC](https://img.youtube.com/vi/U79u1x7lo3c/0.jpg)](https://www.youtube.com/watch?v=U79u1x7lo3c)
 
 ## Neumonía en pediatría 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Neumonía en pediatría](https://img.youtube.com/vi/wS87slHLD7s/0.jpg)](https://www.youtube.com/watch?v=wS87slHLD7s)
 
@@ -61,12 +61,12 @@ Los criterios de hospitalización por neumonía en niños son:
 - Neumonía complicada
 
 ## Asma: abordaje y manejo 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Asma](https://img.youtube.com/vi/YU9hWSPvRDc/0.jpg)](https://www.youtube.com/watch?v=YU9hWSPvRDc)
 
 ## Mejores en el abordaje de la TBC en el Perú: Actualización de la normativa vigente para su manejo 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Abordaje TB](https://img.youtube.com/vi/fAYvgzYQRT4/0.jpg)](https://www.youtube.com/watch?v=fAYvgzYQRT4)
 
@@ -103,7 +103,7 @@ Puedes consultar más en las siguientes guías:
 - [Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú](eda_vigilancia.pdf)
 
 ## Cólera 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Cólera](https://img.youtube.com/vi/G4ceBUtmG0U/0.jpg)](https://www.youtube.com/watch?v=G4ceBUtmG0U)
 
@@ -136,11 +136,11 @@ _Da click en el enlace para acceder al recurso_
 >Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
 
 ## Parasitosis 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![Parasitosis](https://img.youtube.com/vi/bN5t_nBHVbM/0.jpg)](https://www.youtube.com/watch?v=bN5t_nBHVbM)
 
 ## Infecciones de tracto urinario 
-_Da click en el enlace para acceder al recurso_
+_Da click en la imagen para acceder al recurso_
 
 [![ITU](https://img.youtube.com/vi/8jvfW0RN2kE/0.jpg)](https://www.youtube.com/watch?v=8jvfW0RN2kE)
