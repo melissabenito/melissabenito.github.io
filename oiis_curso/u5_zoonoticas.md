@@ -33,7 +33,7 @@ En área endémica conocida: un caso probable es un paciente que cumple la defin
 
 >Fuente: MINSA. RM N° 684-2010/MINSA NTS N°083-MINSA/DGSP.V.01 Norma técnica de salud para la vigilancia, prevención y control de la peste en el Perú. 2010.
 
-Puedes consultar la norma ![aquí.](peste.pdf)
+Puedes consultar la norma [aquí.](peste.pdf)
 
 ## Rabia 
 ### Definiciones según la Norma Técnica de Salud N° 131 – MINSA/2017/DGIESP Norma técnica de salud para la vigilancia, prevención y control de la rabia humana en el Perú
@@ -49,7 +49,7 @@ Puedes consultar la norma ![aquí.](peste.pdf)
 
 >Fuente: MINSA. Norma Técnica de Salud N° 131 – MINSA/2017/DGIESP Norma técnica de salud para la vigilancia, prevención y control de la rabia humana en el Perú. 2017.
 
-Puedes consultar la norma ![aquí.](rabia.pdf)
+Puedes consultar la norma [aquí.](rabia.pdf)
 
 ## ¿Qué es el síndrome de Guillain Barré? 
 _Da click en la imagen para acceder al recurso_
