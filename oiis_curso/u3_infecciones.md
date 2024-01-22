@@ -97,10 +97,8 @@ Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022
 En la clasificación se debe especificar si se trata de una EDA acuosa o disentérica según la definición.”
 
 >Fuente:
->
->MINSA. RM 755-2017. Guía de práctica clínica para el diagnóstico y tratamiento de la enfermedad diarreica aguda en la niña y el niño. 2017
->
->MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
+>1. MINSA. RM 755-2017. Guía de práctica clínica para el diagnóstico y tratamiento de la enfermedad diarreica aguda en la niña y el niño. 2017
+>2. MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
 
 Puedes consultar más en las siguientes guías:
 - [Manejo de EDAs](eda_manejo.pdf)
