@@ -17,10 +17,10 @@ El módulo consta de seis unidades. Cada unidad está compuesta por temas, y cad
 | **5. Enfermedades zoonóticas y otras** | Leptospirosis. Peste. Rabia. Síndrome de Guillain Barré.  |
 | **6. Urgencias y emergencias en desastres** | Primeros auxilios y estabilización de pacientes. Traumatismos y caídas. Quemaduras. Golpe de calor. Emergencias obstétricas. Accidentes cerebrovasculares. Accidentes por animales ponzoñosos. |
 ## Indice 
-[[U1 Desastres|Unidad 1: Desastres]]
-[[U2 Metaxenicas|Unidad 2: Enfermedades metaxénicas]]
-[[U3 Infecciones|Unidad 3: Principales infecciones en el fenómeno El Niño]]
-[[U4 Inmunoprevenibles|Unidad 4: Enfermedades inmunoprevenibles]]
-[[U5 Zoonoticas|Unidad 5: Enfermedades zoonóticas y otras]]
-Unidad 6: Urgencias y emergencias en desastres 
+[Unidad 1: Desastres](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U1_Desastres.md)
+[Unidad 2: Enfermedades metaxénicas](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U2_Metaxenicas.md)
+[Unidad 3: Principales infecciones en el fenómeno El Niño](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U3_Infecciones.md)
+[Unidad 4: Enfermedades inmunoprevenibles](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U4_Inmunoprevenibles.md)
+[Unidad 5: Enfermedades zoonóticas y otras](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U5_Zoonoticas.md)
+[Unidad 6: Urgencias y emergencias en desastres](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U6_Emergencias.md)
 
