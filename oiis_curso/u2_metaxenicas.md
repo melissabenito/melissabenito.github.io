@@ -53,7 +53,7 @@ Signos de alarma:
 - Sangrado o diátesis hemorrágica: piel, mucosas y del tracto digestivo. Realizar tacto rectal (prueba del tacto rectal y agua oxigenada). Se identifica por la producción de abundante “espuma” en el contenido de la ampolla rectal.
 - Bradicardia persistente, con disociación pulso temperatura (signo de Faget)
 
-#### Definiciones operativas
+#### Definiciones operativas según el Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla, 2016
 
 **Caso probable de fiebre amarilla**
 “Toda persona de cualquier edad procedente de zona endémica de fiebre amarilla, con fiebre de inicio súbito hasta 07 días de evolución, seguido de ictericia, que reside o ha visitado zonas endémicas en los últimos 14 días, con o sin vacunación contra fiebre amarilla y que presenta una o más de las siguientes manifestaciones clínicas:
@@ -70,6 +70,7 @@ Signos de alarma:
 **Caso confirmado de fiebre amarilla**
 **Por laboratorio**: 
 “Todo síndrome febril o caso probable cuyo resultado de laboratorio es positivo por uno o más de los métodos siguientes:
+
 En suero
 - Aislamiento del virus de la fiebre amarilla
 - Presencia de IgM específica para fiebre amarilla
@@ -90,6 +91,7 @@ En tejidos
 - Pruebas de laboratorio negativas para fiebre amarilla
 - Ausencia de nexo epidemiológico
 - Evidencia de otro diagnóstico alternativo, confirmado por laboratorio”
+
 Puedes consultar las recomendaciones sobre el manejo de fiebre amarilla en el documento [PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla](fiebreamarilla.pdf)
 
 >Fuente: PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla. 2016.
