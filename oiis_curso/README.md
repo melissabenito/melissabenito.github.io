@@ -17,15 +17,15 @@ El módulo consta de seis unidades. Cada unidad está compuesta por temas, y cad
 | **5. Enfermedades zoonóticas y otras** | Leptospirosis. Peste. Rabia. Síndrome de Guillain Barré.  |
 | **6. Urgencias y emergencias en desastres** | Primeros auxilios y estabilización de pacientes. Traumatismos y caídas. Quemaduras. Golpe de calor. Emergencias obstétricas. Accidentes cerebrovasculares. Accidentes por animales ponzoñosos. |
 ## Indice 
-[Unidad 1: Desastres](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U1_Desastres.md)
+[Unidad 1: Desastres](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/u1_desastres.md)
 
-[Unidad 2: Enfermedades metaxénicas](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U2_Metaxenicas.md)
+[Unidad 2: Enfermedades metaxénicas](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/u2_metaxenicas.md)
 
-[Unidad 3: Principales infecciones en el fenómeno El Niño](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U3_Infecciones.md)
+[Unidad 3: Principales infecciones en el fenómeno El Niño](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/u3_infecciones.md)
 
-[Unidad 4: Enfermedades inmunoprevenibles](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U4_Inmunoprevenibles.md)
+[Unidad 4: Enfermedades inmunoprevenibles](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/u4_inmunoprevenibles.md)
 
-[Unidad 5: Enfermedades zoonóticas y otras](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U5_Zoonoticas.md)
+[Unidad 5: Enfermedades zoonóticas y otras](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/u5_zoonoticas.md)
 
-[Unidad 6: Urgencias y emergencias en desastres](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/U6_Emergencias.md)
+[Unidad 6: Urgencias y emergencias en desastres](https://github.com/melissabenito/melissabenito.github.io/edit/main/oiis_curso/u6_emergencias.md)
 
