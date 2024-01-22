@@ -2,7 +2,9 @@
 ## Manejo de infecciones metaxénicas asociadas a lluvias e inundaciones 
 *sube el video* 
 ## Cómo protegerte contra las picaduras de mosquito y el dengue 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jKMvqzjpA0Q?si=HCQFQtd_BdgFxb1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Prevención de picaduras por _Aedes aegypti_](https://img.youtube.com/vi/jKMvqzjpA0Q/0.jpg)](https://www.youtube.com/watch?v=jKMvqzjpA0Q)
 ### Infografías 
 #### El zancudo *Aedes aegypti*
 ![[arbovirosis 1.jpg]]Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/691649641750872068](https://twitter.com/INS_Peru/status/691649641750872068)
@@ -11,18 +13,28 @@
 Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/593151410805538816](https://twitter.com/INS_Peru/status/593151410805538816)
 
 ## Enfermedades transmitidas por vectores y por aguas contaminadas
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gUWtcNvaFmM?si=230uu37b61xu2h9n&amp;start=260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Enfermedades transmitidas por vectores y por aguas contaminadas](https://img.youtube.com/vi/gUWtcNvaFmM/0.jpg)](https://www.youtube.com/watch?v=gUWtcNvaFmM)
 
 ## Manejo clínico y vigilancia epidemiológica de dengue 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nqQ59QECw-8?si=hLBukewGrZg5NlcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-## Presentación de casos clínicos de dengue 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HoPDbyccxBY?si=1ham2VRvTu3ff7cx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
 
+[![Manejo clínico y vigilancia epidemiológica de dengue](https://img.youtube.com/vi/nqQ59QECw-8/0.jpg)](https://www.youtube.com/watch?v=nqQ59QECw-8)
+## Presentación de casos clínicos de dengue 
+_Da click en el enlace para acceder al recurso_
+
+[![Presentación de casos clínicos de dengue](https://img.youtube.com/vi/HoPDbyccxBY/0.jpg)](https://www.youtube.com/watch?v=HoPDbyccxBY)
 ## Fiebre chikungunya 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fVhG_i1kjbY?si=JxOvqXvxkM4UTIAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Fiebre chikungunya](https://img.youtube.com/vi/fVhG_i1kjbY/0.jpg)](https://www.youtube.com/watch?v=fVhG_i1kjbY)
 
 ## Fiebre amarilla 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ya2fJi6mN80?si=Lpx81bncUGRd4d2c&amp;start=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Fiebre amarilla](https://img.youtube.com/vi/Ya2fJi6mN80/0.jpg)](https://www.youtube.com/watch?v=Ya2fJi6mN80)
+
 ### Todo caso sospechoso de fiebre amarilla debe ser hospitalizado o referido INMEDIATAMENTE.
 
 ### Definiciones operativas 
@@ -136,13 +148,21 @@ Los pacientes con bartonelosis aguda grave, así como los pacientes con bartonel
 Fuente: MINSA. Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú. 2004
 
 ## Infecciones por Bartonella cutánea 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AKLIU16apsU?si=uA-yeNAY5v-h-RTY&amp;start=128" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Infecciones por Bartonella cutánea](https://img.youtube.com/vi/AKLIU16apsU/0.jpg)](https://www.youtube.com/watch?v=AKLIU16apsU)
 
 ## Leishmaniasis 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmeFXGe2Zjk?si=co4AP8I3k9emjV9u&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Leishmaniasis](https://img.youtube.com/vi/jmeFXGe2Zjk/0.jpg)](https://www.youtube.com/watch?v=jmeFXGe2Zjk)
+
 ## Malaria, dengue y chikungunya 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uVzo0se3vYQ?si=cSc3JfAvv7NuiF7v&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Malaria, dengue y chikungunya](https://img.youtube.com/vi/uVzo0se3vYQ/0.jpg)](https://www.youtube.com/watch?v=uVzo0se3vYQ)
 
 ## Fiebre chikungunya 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fVhG_i1kjbY?si=WRt9_fw2oe_B2wjB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
 
+[![Fiebre chikungunya](https://img.youtube.com/vi/fVhG_i1kjbY/0.jpg)](https://www.youtube.com/watch?v=fVhG_i1kjbY)
