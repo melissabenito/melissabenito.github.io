@@ -92,9 +92,7 @@ En tejidos
 - Pruebas de laboratorio negativas para fiebre amarilla
 - Ausencia de nexo epidemiológico
 - Evidencia de otro diagnóstico alternativo, confirmado por laboratorio”
-Puedes consultar las recomendaciones sobre el manejo de fiebre amarilla en el siguiente documento:
-![fiebre-amarilla.png](fiebreamarilla.pdf)
-![fiebreamarilla.pdf](fiebreamarilla.pdf)
+Puedes consultar las recomendaciones sobre el manejo de fiebre amarilla en el siguiente documento: [fiebreamarilla.pdf](fiebreamarilla.pdf)
 
 Fuente: PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla. 2016.
 
