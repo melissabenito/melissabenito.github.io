@@ -41,7 +41,6 @@ _Da click en el enlace para acceder al recurso_
 ### Todo caso sospechoso de fiebre amarilla debe ser hospitalizado o referido INMEDIATAMENTE.
 
 ### Definiciones operativas 
-*Fuente: Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla, MINSA 2016*
 #### Cuadro clínico
 El cuadro clínico de fiebre amarilla tiene 3 fases:
 1. “Fase de infección, congestiva o roja (0 a 5 días)
@@ -142,12 +141,9 @@ El antibiótico de primera línea para niños y adolescentes menores de 14 años
 ### Bartonelosis aguda grave 
 >“Caso probable o confirmado de bartonelosis aguda, que desde la primera consulta o en su evolución presenta alteración clínica o laboratorial, asociada a falla multiorgánica o trastornos de la perfusión y que requieren intervención para restablecer el equilibrio homeostático.”
 
-Los pacientes con bartonelosis aguda grave, así como los pacientes con bartonelosis crónica eruptiva y bacteriemia asintomática, requieren un esquema de manejo distinto que puedes revisar en la guía técnica: 
+Los pacientes con bartonelosis aguda grave, así como los pacientes con bartonelosis crónica eruptiva y bacteriemia asintomática, requieren un esquema de manejo distinto que puedes revisar en la ![Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú](bartonelosis.png)
 
-![bartonelosis.png](bartonelosis.png)
-Imagen con hipervínculo al pdf: Bartonelosis-Manejo, Vigilancia-2004-MINSA 
-
-Fuente: MINSA. Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú. 2004
+>Fuente: MINSA. Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú. 2004
 
 ## Infecciones por Bartonella cutánea 
 _Da click en el enlace para acceder al recurso_
