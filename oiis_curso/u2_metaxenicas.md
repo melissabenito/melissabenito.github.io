@@ -68,6 +68,7 @@ Signos de alarma:
 - Muerte después de haberse instalado la enfermedad con compromiso de un órgano o sistema (falla renal, hepática, otros)"
 
 **Caso confirmado de fiebre amarilla**
+
 **Por laboratorio**: 
 “Todo síndrome febril o caso probable cuyo resultado de laboratorio es positivo por uno o más de los métodos siguientes:
 
