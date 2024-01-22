@@ -1,15 +1,24 @@
 # Unidad 6: Urgencias y emergencias en desastres
 ## Primeros auxilios 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UQEp3D3WHeM?si=ivIjiLjNxxX7-tdT&amp;start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![Primeros auxilios](https://img.youtube.com/vi/UQEp3D3WHeM/0.jpg)](https://www.youtube.com/watch?v=UQEp3D3WHeM)
 
 ## Urgencias por agentes físicos: quemaduras y lesiones por electricidad 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VboWJ4pS1Lw?si=Hrfg75JdvIWQM3DA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![Agentes físicos](https://img.youtube.com/vi/VboWJ4pS1Lw/0.jpg)](https://www.youtube.com/watch?v=VboWJ4pS1Lw)
 
 ## Accidentes cerebrovasculares 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uaeY5ddBp2o?si=iFf-GfBHtMhOOze5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![ACV](https://img.youtube.com/vi/uaeY5ddBp2o/0.jpg)](https://www.youtube.com/watch?v=uaeY5ddBp2o)
 
 ## Manejo de emergencias obstétricas 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XScCJuZvQyo?si=ZIG8LnjhMXICjJni&amp;start=78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![Emergencias obstétricas](https://img.youtube.com/vi/XScCJuZvQyo/0.jpg)](https://www.youtube.com/watch?v=XScCJuZvQyo)
+
 Signos de alarma obstétrica: 
 - Dolor o contracciones uterinas
 - Sangrado vaginal
@@ -20,10 +29,15 @@ Signos de alarma obstétrica:
 - Cefalea
 
 ## EsSalud te orienta cómo actuar frente al golpe de calor en los niños 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wYvgW20neqg?si=nMe2cJ-Fuak7hTF_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![Golpe de calor](https://img.youtube.com/vi/wYvgW20neqg/0.jpg)](https://www.youtube.com/watch?v=wYvgW20neqg)
 
 ## Prevención y control de accidentes por animales ponzoñosos en el Perú 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nHXPxTwrXe8?si=No0tv5JGO0-M8qZ8&amp;start=178" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en la imagen para acceder al recurso_
+
+[![Animales ponzoñosos](https://img.youtube.com/vi/nHXPxTwrXe8/0.jpg)](https://www.youtube.com/watch?v=nHXPxTwrXe8)
+
 Ante un accidente ofídico:
 - Tranquilizar e inmovilizar al paciente
 - Lavar suavemente la zona de la mordedura con abundante agua y jabón
