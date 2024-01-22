@@ -38,8 +38,6 @@ _Da click en el enlace para acceder al recurso_
 
 [![Fiebre amarilla](https://img.youtube.com/vi/Ya2fJi6mN80/0.jpg)](https://www.youtube.com/watch?v=Ya2fJi6mN80)
 
->Fuente: PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla. 2016.
-
 ### Todo caso sospechoso de fiebre amarilla debe ser hospitalizado o referido INMEDIATAMENTE.
 
 ### Definiciones operativas 
@@ -96,7 +94,7 @@ En tejidos
 - Evidencia de otro diagnóstico alternativo, confirmado por laboratorio”
 Puedes consultar las recomendaciones sobre el manejo de fiebre amarilla en el documento [PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla](fiebreamarilla.pdf)
 
-Fuente: PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla. 2016.
+>Fuente: PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla. 2016.
 
 ## Bartonelosis o enfermedad de Carrión 
 En su forma aguda, llamada fiebre de la Oroya, esta enfermedad puede tener hasta un 90% de letalidad si no se diagnostica y trata de forma precoz y adecuada. **Las gestantes, los infantes menores de un año y los adultos mayores de 50 años son grupos de riesgo para bartonelosis grave.**
