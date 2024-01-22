@@ -2,13 +2,15 @@
 ## Infecciones respiratorias: Medidas prácticas para evitar contagios 
 _Da click en el enlace para acceder al recurso_
 
-[![Intervención sanitaria ante el Fenómeno El Niño Global](https://img.youtube.com/vi/pyC1Lce3APw/0.jpg)](https://www.youtube.com/watch?v=pyC1Lce3APw)
+[![Previniendo el contagio de infecciones respiratorias](https://img.youtube.com/vi/pyC1Lce3APw/0.jpg)](https://www.youtube.com/watch?v=pyC1Lce3APw)
 
 ### Infografía 
-[medidas.png](medidas.png)
+![medidas.png](medidas.png)
 
 ## IRAs 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2_l4nmA9H28?si=66KLXNAZjreSNR_p&amp;start=235" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![IRAs](https://img.youtube.com/vi/2_l4nmA9H28/0.jpg)](https://www.youtube.com/watch?v=2_l4nmA9H28)
 
 Infección que compromete una o más partes del aparato respiratorio con duración menor de 14 días causada por un agente infeccioso. Puede tener estos síntomas o signos, entre otros:
 - Tos
@@ -23,12 +25,20 @@ Infección que compromete una o más partes del aparato respiratorio con duraci�
 En desastres, se ve un incremento de IRAs hasta 3 meses después del evento.
 
 ## Diferencias y similitudes TB, resfrío, gripe y COVID-19 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pXE4UFKk4Ts?si=eJjv4R5vMysMJrdN&amp;start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Diferencias y similitudes TB, resfrío, gripe y COVID-19](https://img.youtube.com/vi/pXE4UFKk4Ts/0.jpg)](https://www.youtube.com/watch?v=pXE4UFKk4Ts)
 
 ## Neumonía adquirida en la comunidad 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U79u1x7lo3c?si=My7H6ScCvnQrY7pr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![NAC](https://img.youtube.com/vi/U79u1x7lo3c/0.jpg)](https://www.youtube.com/watch?v=U79u1x7lo3c)
+
 ## Neumonía en pediatría 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wS87slHLD7s?si=HQ7duu4OfoApMq9Y&amp;start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Neumonía en pediatría](https://img.youtube.com/vi/wS87slHLD7s/0.jpg)](https://www.youtube.com/watch?v=wS87slHLD7s)
+
 Los síntomas y signos en un niño con neumonía incluyen:
 - Cuadro previo viral - infección respiratoria alta
 - Fiebre
@@ -50,9 +60,15 @@ Los criterios de hospitalización por neumonía en niños son:
 - Neumonía complicada
 
 ## Asma: abordaje y manejo 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YU9hWSPvRDc?si=cKU16NQLOOUAa6rA&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Asma](https://img.youtube.com/vi/YU9hWSPvRDc/0.jpg)](https://www.youtube.com/watch?v=YU9hWSPvRDc)
+
 ## Mejores en el abordaje de la TBC en el Perú: Actualización de la normativa vigente para su manejo 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fAYvgzYQRT4?si=93w4jTvKnEvlxiHk&amp;start=141" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Abordaje TB](https://img.youtube.com/vi/fAYvgzYQRT4/0.jpg)](https://www.youtube.com/watch?v=fAYvgzYQRT4)
+
 ¿Quiénes deben recibir terapia preventiva de tuberculosis?
 - Menores de 5 años contactos de caso índice con TB pulmonar, e independientemente del PPD
 - Niños >= de 5 años, adolescentes, jóvenes, adultos y adultos mayores que son contactos de caso índice de TB pulmonar con resultado del PPD igual o mayor a 10 mm
@@ -79,17 +95,17 @@ Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022
 
 En la clasificación se debe especificar si se trata de una EDA acuosa o disentérica según la definición.”
 
-Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
+>Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
 
-Puedes consultar más en las guías:
-![[eda.png]]
-Imagen “eda” con hipervínculo al pdf EDA-Vigilancia-2022-MINSA
-
-![[eda infantil.png]]
-Imagen “eda infantil” con hipervínculo al pdf EDA-Manejo-2017-MINSA
+Puedes consultar más en las siguientes guías:
+- ![Manejo de EDAs](eda_manejo.pdf)
+- ![Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú](eda_vigilancia.pdf)
 
 ## Cólera 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G4ceBUtmG0U?si=y7Ddi6ifFP7kBpJL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Cólera](https://img.youtube.com/vi/G4ceBUtmG0U/0.jpg)](https://www.youtube.com/watch?v=G4ceBUtmG0U)
+
 Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú
 
 ### Caso sospechoso de cólera
@@ -118,7 +134,11 @@ Definiciones operativas según la Norma Técnica de Salud N° 190-MINSA/CDC-2022
 Fuente: MINSA. Norma Técnica de Salud N° 190-MINSA/CDC-2022 Norma técnica de salud para la vigilancia epidemiológica de la enfermedad diarreica aguda (EDA) en el Perú. 2022
 
 ## Parasitosis 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bN5t_nBHVbM?si=7jzcKHNHihZxzPL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![Parasitosis](https://img.youtube.com/vi/bN5t_nBHVbM/0.jpg)](https://www.youtube.com/watch?v=bN5t_nBHVbM)
 
 ## Infecciones de tracto urinario 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8jvfW0RN2kE?si=qjwNBvFiIwLgjti7&amp;start=112" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+_Da click en el enlace para acceder al recurso_
+
+[![ITU](https://img.youtube.com/vi/8jvfW0RN2kE/0.jpg)](https://www.youtube.com/watch?v=8jvfW0RN2kE)
