@@ -121,6 +121,7 @@ Los individuos con bacteriemia asintomática pueden ser reservorios en las área
 | Cuidado familiar | Relativo | Permanente |
 | Evaluación clínica médica | Cada 48 horas | Cada 12 horas |
 | Control de funciones vitales | Cada 24 horas | Cada 6 horas |
+
 Tabla 1. Medidas generales en pacientes con bartonelosis aguda. Fuente: Norma técnica de salud para la atención de la bartonelosis o enfermedad de Carrión en el Perú.
 
 El antibiótico de primera línea para niños y adolescentes menores de 14 años (menos de 45 kg), así como gestantes, es amoxicilina / ácido clavulánico. Para adolescentes mayores de 14 años y adultos (más de 45 kg), el tratamiento de primera línea es ciprofloxacino.
@@ -140,7 +141,7 @@ El antibiótico de primera línea para niños y adolescentes menores de 14 años
 ### Bartonelosis aguda grave 
 >“Caso probable o confirmado de bartonelosis aguda, que desde la primera consulta o en su evolución presenta alteración clínica o laboratorial, asociada a falla multiorgánica o trastornos de la perfusión y que requieren intervención para restablecer el equilibrio homeostático.”
 
-Los pacientes con bartonelosis aguda grave, así como los pacientes con bartonelosis crónica eruptiva y bacteriemia asintomática, requieren un esquema de manejo distinto que puedes revisar en la ![Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú](bartonelosis.png)
+Los pacientes con bartonelosis aguda grave, así como los pacientes con bartonelosis crónica eruptiva y bacteriemia asintomática, requieren un esquema de manejo distinto que puedes revisar en la [Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú](bartonelosis.png)
 
 >Fuente: MINSA. Norma Técnica de Salud para la Atención de la Bartonelosis o Enfermedad de Carrión en el Perú. 2004
 
