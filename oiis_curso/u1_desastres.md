@@ -14,6 +14,4 @@ _Da click en el enlace para acceder al recurso_
 
 [![Cuidando la salud mental](https://img.youtube.com/vi/us7u_ecBscE/0.jpg)](https://www.youtube.com/watch?v=us7u_ecBscE)
 ## Repasa conceptos básicos sobre desastres 
-Puedes repasar los conceptos clave de esta unidad con estas flashcards. 
-
-<iframe src="https://quizlet.com/831490108/learn/embed?i=5cxfzr&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+_Puedes repasar los conceptos clave de esta unidad con estas [flashcards](https://quizlet.com/pe/831490108/desastres-flash-cards/?i=5cxfzr&x=1jqt)_
