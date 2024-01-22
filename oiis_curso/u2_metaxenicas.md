@@ -7,7 +7,7 @@ _Da click en el enlace para acceder al recurso_
 [![Prevención de picaduras por _Aedes aegypti_](https://img.youtube.com/vi/jKMvqzjpA0Q/0.jpg)](https://www.youtube.com/watch?v=jKMvqzjpA0Q)
 ### Infografías 
 #### El zancudo *Aedes aegypti*
-![arbovirosis1.jpg]
+![arbovirosis1.jpg](arbovirosis1.jpg)
 
 Fuente: INS. Disponible en: [https://twitter.com/INS_Peru/status/691649641750872068](https://twitter.com/INS_Peru/status/691649641750872068)
 #### Dengue
@@ -93,7 +93,7 @@ En tejidos
 - Ausencia de nexo epidemiológico
 - Evidencia de otro diagnóstico alternativo, confirmado por laboratorio”
 Puedes consultar las recomendaciones sobre el manejo de fiebre amarilla en el siguiente documento:
-![fiebre-amarilla.png](fiebre-amarilla.png)
+![fiebre-amarilla.png](fiebreamarilla.pdf)
 ![fiebreamarilla.pdf](fiebreamarilla.pdf)
 
 Fuente: PSU N° 16-MINSA/DVMSP/DGIESP Protocolo sanitario de urgencia para el diagnóstico y tratamiento de pacientes con fiebre amarilla. 2016.
