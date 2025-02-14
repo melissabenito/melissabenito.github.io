@@ -3,15 +3,15 @@
 <p>I'm a Peruvian physician and epidemiologist with a passion for cancer and medical informatics</p>
 <p><i>Full CV upon request at <a href="melissabenitonavarro@gmail.com" target="_blank">melissabenitonavarro@gmail.com</a></i></p>
 <h1>Work experience</h1>
-<p>Peruvian Social Health Insurance - EsSalud</p>
+<p>Peruvian Social Health Insurance - EsSalud (2023, ongoing)</p>
 <ul>
   <li>Cancer registry implementation as a tool for cancer surveillance</li>
   <li>Tuberculosis surveillance</li>
   <li>Development of educational module about main health issues related to El Niño phenomenon, available at: <a href="https://vigilanciaoiis.github.io/modulo_01/index.html" target="_blank">https://vigilanciaoiis.github.io/modulo_01/index.html</a></li>
 </ul>
-<p>International Agency for Research in Cancer IARC</p>
+<p>International Agency for Research in Cancer - IARC (2022)</p>
 <ul>
-  <li>Infographics design, these were further developed, final version is available at: <a href="https://cancer-code-lac.iarc.who.int/es/recursos/" target="_blank">https://cancer-code-lac.iarc.who.int/es/recursos/</a></li>
+  <li>Professional editing of scientific outputs for the Latin American and Caribbean Code Against Cancer and infographics design, these were further edited, final version is available <a href="https://cancer-code-lac.iarc.who.int/es/recursos/" target="_blank">here</a></li>
 </ul>
 <p><i>Full list upon request</i></p>
 <h1>Education</h1>
