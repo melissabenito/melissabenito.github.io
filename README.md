@@ -4,14 +4,14 @@ Melissa Benito
 </head>
 <body>
 <p>I'm a Peruvian physician and epidemiologist with a passion for cancer and medical informatics</p>
-<p>Full CV upon request</p>
+<p><i>Full CV upon request</i></p>
 <p>melissabenitonavarro@gmail.com</p>
 <h1>Work experience</h1>
 <p>Peruvian Social Health Insurance - EsSalud</p>
 <ul>
   <li>Cancer registry implementation as a tool for cancer surveillance</li>
   <li>Tuberculosis surveillance</li>
-  <li>Development of educational module about main health issues related to El Niño phenomenon, available at: https://vigilanciaoiis.github.io/modulo_01/index.html</li>
+  <li>Development of educational module about main health issues related to El Niño phenomenon, available at: <a href="https://vigilanciaoiis.github.io/modulo_01/index.html" target="_blank">https://vigilanciaoiis.github.io/modulo_01/index.html</a></li>
 </ul>
 <p>IARC</p>
 <ul>
@@ -27,7 +27,7 @@ Melissa Benito
 <p>Epidemiology</p>
 <p>Data analytics and medical informatics</p>
 <p>Instructional design</p>
-<p>Full list upon request<p>
+<p><i>Full list upon request</i></p>
 <h1>Academic outputs</h1>
 <h2>Presentations</h2>
 <p>“Correct filling of the Death Certificate”, lecturer in online training, Peruvian Medical Association, 2022</p>
