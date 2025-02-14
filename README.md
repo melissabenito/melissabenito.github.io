@@ -38,7 +38,7 @@
 <p>LATAM group, capacity building network for Latin American researchers</p>
 <ul>
   <li>Member and communications and IT support</li>
-  <li>Developed group's website: grupolatamblog.wordpress.com</li>
+  <li>Developed group's website: <a href="grupolatamblog.wordpress.com" target="_blank">grupolatamblog.wordpress.com</a></li>
 </ul>
 <p>Educational module about health issues related to El Niño phemenon: <a href="https://vigilanciaoiis.github.io/modulo_01/index.html" target="_blank">https://vigilanciaoiis.github.io/modulo_01/index.html</a></p>
 <p>Dashboard development in Microsoft Power BI</p>
