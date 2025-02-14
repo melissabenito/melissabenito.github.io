@@ -44,7 +44,7 @@ layout: home
   <li>Member and communications and IT support</li>
   <li>Developed group's website: <a href="grupolatamblog.wordpress.com" target="_blank">grupolatamblog.wordpress.com</a></li>
 </ul>
-<p>Educational module about health issues related to El Niño phemenon: <a href="https://vigilanciaoiis.github.io/modulo_01/index.html" target="_blank">https://vigilanciaoiis.github.io/modulo_01/index.html</a></p>
+<p>Educational module about health issues related to El Niño phenomenon: <a href="https://vigilanciaoiis.github.io/modulo_01/index.html" target="_blank">https://vigilanciaoiis.github.io/modulo_01/index.html</a></p>
 <p>Dashboard development in Microsoft Power BI</p>
 <h2>Publications</h2>
 <p>Kalita BK, Singh KA, Kalita M, Rajaa S, Pandey S, Benito M, et al. Comprehensive evaluation of risk factors for esophageal cancer in India: Evidence from a systematic review and meta-analysis. Med J DY Patil Univ. 2025 (article in press)</p>
