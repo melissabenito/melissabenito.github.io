@@ -18,13 +18,15 @@
 <h2>Degrees</h2>
 <p>Master's in sciences of epidemiological research, UPCH - thesis in progress</p>
 <p>Medical degree, UNMSM</p>
-<h2>Training areas</h2>
-<p>Cancer epidemiology</p>
-<p>Social health insurance and public health</p>
-<p>Epidemiology</p>
-<p>Data analytics and medical informatics</p>
-<p>Instructional design</p>
-<p><i>Full list upon request</i></p>
+<h2>Training</h2>
+<p>I have completed diplomas and courses in the following areas (full list upon request):</p>
+<ul>
+  <li>Cancer epidemiology</li>
+  <li>Social health insurance and public health</li>
+  <li>Epidemiology</li>
+  <li>Data analytics and medical informatics</li>
+  <li>Instructional design</li>
+</ul>
 <h1>Academic outputs</h1>
 <h2>Presentations</h2>
 <p>“Correct filling of the Death Certificate”, lecturer in online training, Peruvian Medical Association, 2022</p>
