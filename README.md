@@ -19,7 +19,7 @@
 <p>Master's in sciences of epidemiological research, UPCH - thesis in progress</p>
 <p>Medical degree, UNMSM</p>
 <h2>Training</h2>
-<p>I have completed diplomas and courses in the following areas (full list upon request):</p>
+<p>I have completed diplomas and courses in the following areas:</p>
 <ul>
   <li>Cancer epidemiology</li>
   <li>Social health insurance and public health</li>
@@ -27,6 +27,7 @@
   <li>Data analytics and medical informatics</li>
   <li>Instructional design</li>
 </ul>
+<p><i>Full list upon request</i></p>
 <h1>Academic outputs</h1>
 <h2>Presentations</h2>
 <p>“Correct filling of the Death Certificate”, lecturer in online training, Peruvian Medical Association, 2022</p>
