@@ -8,3 +8,7 @@ github_username: melissabenito
 remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
 - jekyll-remote-theme
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
