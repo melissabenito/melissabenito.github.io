@@ -35,7 +35,7 @@
 <ul>
   <li>Video and slides available <a href="https://www.gob.pe/es/i/2142975" target="_blank">here</a></li>
 </ul>
-<p>“Digital intervention in mental health in Latin America”, interviewer in panel, Science Journalism Forum 2nd Edition</p>
+<p><a href="https://sciencejf.com/slots/digital-intervention-in-mental-health-in-latin-america/" target="_blank">“Digital intervention in mental health in Latin America”</a>, interviewer in panel, Science Journalism Forum 2nd Edition</p>
 <p><a href="https://apcienciaperu.wordpress.com/curso-de-epidemiologia-y-ciencias-para-periodistas/" target="_blank">“Epidemiology and science for journalists”</a>, organizer and interviewer in open-access course in response to COVID-19 pandemic and infodemic, Asociación Peruana de Periodistas y Comunicadores de Ciencia APCIENCIA</p>
 <h2>Websites and informatics</h2>
 <p>LATAM group, capacity building network for Latin American researchers</p>
