@@ -48,7 +48,7 @@ layout: home
 <p>Dashboard development in Microsoft Power BI</p>
 <h2>Publications</h2>
 <p>Kalita BK, Singh KA, Kalita M, Rajaa S, Pandey S, Benito M, et al. Comprehensive evaluation of risk factors for esophageal cancer in India: Evidence from a systematic review and meta-analysis. Med J DY Patil Univ. 2025 (article in press)</p>
-<p>Lazo-Porras M, Liu H, Ouyang M, Yin X, Malavera A, Bressan T, Guzman-Vilca WC, Pacheco N, Benito M, et al. Process evaluation of complex interventions in non-communicable and neglected tropical diseases in low- and middle-income countries: a scoping review. BMJ Open. 2022;12:e057597. DOI: 10.1136/bmjopen-2021-057597</p>
+<p>Lazo-Porras M, Liu H, Ouyang M, Yin X, Malavera A, Bressan T, Guzman-Vilca WC, Pacheco N, Benito M, et al. Process evaluation of complex interventions in non-communicable and neglected tropical diseases in low- and middle-income countries: a scoping review. BMJ Open. 2022;12:e057597. DOI: <a href=" https://bmjopen.bmj.com/content/12/9/e057597" target="_blank">10.1136/bmjopen-2021-057597</p>
 <h1>Skills</h1>
 <h2>Languages</h2>
 <p>I am passionate about language learning. So far, I speak the following:</p>
