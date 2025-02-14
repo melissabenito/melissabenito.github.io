@@ -8,6 +8,7 @@
   <li>Cancer registry implementation as a tool for cancer surveillance</li>
   <li>Tuberculosis surveillance</li>
   <li>Development of educational module about main health issues related to El Niño phenomenon, available at: <a href="https://vigilanciaoiis.github.io/modulo_01/index.html" target="_blank">https://vigilanciaoiis.github.io/modulo_01/index.html</a></li>
+  <li>Dashboard development in Microsoft Power BI</li>
 </ul>
 <p>International Agency for Research in Cancer - IARC (2022)</p>
 <ul>
