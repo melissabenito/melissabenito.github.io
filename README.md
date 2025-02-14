@@ -51,3 +51,5 @@
 <p>Spanish (native), English (fluent), German (fluent), French (intermediate), Italian (basic), Quechua (basic)</p>
 <h2>Software</h2>
 <p>R (intermediate), Microsoft Power BI (intermediate), SQL Server (basic), Adobe Illustrator (intermediate), Microsoft PowerPoint (intermediate), Microsoft Word (intermediate), Microsoft Excel (advanced)</p>
+</body>
+</html>
