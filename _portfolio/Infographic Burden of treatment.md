@@ -1,0 +1,16 @@
+---
+title: "Infographic - Burden of treatment"
+image: 
+  path: /assets/images/burden_of_treatment.png
+---
+
+<html>
+<head>
+    <title>Burden of treatment (infographic)</title>
+</head>
+<body>
+<p>This infographic was designed in Adobe Spark, to summarize the following paper:</p>
+<p>Tran, Viet-Thi, Caroline Barnes, Victor M. Montori, Bruno Falissard, y Philippe Ravaud. «Taxonomy of the Burden of Treatment: A Multi-Country Web-Based Qualitative Study of Patients with Chronic Conditions». BMC Medicine 13, n.º 1 (diciembre de 2015): 115. https://doi.org/10.1186/s12916-015-0356-x.
+</p>
+</body>
+</html>
