@@ -11,7 +11,7 @@
 </ul>
 <p>International Agency for Research in Cancer - IARC (2022)</p>
 <ul>
-  <li>Professional editing of scientific outputs for the Latin American and Caribbean Code Against Cancer and infographics design, these were further edited, final version is available <a href="https://cancer-code-lac.iarc.who.int/es/recursos/" target="_blank">here</a></li>
+  <li>Professional editing of scientific outputs for the Latin American and Caribbean Code Against Cancer and infographics design. These were further edited; final version is available <a href="https://cancer-code-lac.iarc.who.int/es/recursos/" target="_blank">here</a></li>
 </ul>
 <p><i>Full list upon request</i></p>
 <h1>Education</h1>
