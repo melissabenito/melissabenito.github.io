@@ -8,11 +8,15 @@ Melissa Benito
 <p>melissabenitonavarro@gmail.com</p>
 <h1>Work experience</h1>
 <p>Peruvian Social Health Insurance - EsSalud</p>
-- Cancer registry implementation as a tool for cancer surveillance 
-- Tuberculosis surveillance 
-- Development of educational module about main health issues related to El Niño phenomenon, available at: https://vigilanciaoiis.github.io/modulo_01/index.html
+<ul>
+  <li>Cancer registry implementation as a tool for cancer surveillance</li>
+  <li>Tuberculosis surveillance</li>
+  <li>Development of educational module about main health issues related to El Niño phenomenon, available at: https://vigilanciaoiis.github.io/modulo_01/index.html</li>
+</ul>
 <p>IARC</p>
-- Infographics design, these were further developed, final version is available at: https://cancer-code-lac.iarc.who.int/es/recursos/
+<ul>
+  <li>Infographics design, these were further developed, final version is available at: https://cancer-code-lac.iarc.who.int/es/recursos/</li>
+</ul>
 <h1>Education</h1>
 <h2>Degrees</h2>
 <p>Master's in sciences of epidemiological research, UPCH - thesis in progress</p>
@@ -28,13 +32,17 @@ Melissa Benito
 <h2>Presentations</h2>
 <p>“Correct filling of the Death Certificate”, lecturer in online training, Peruvian Medical Association, 2022</p>
 <p>“Datathon to prevent the third wave”, National Platform of Open Data, member of participating team, 2021</p>
-- Video and slides available in: https://www.gob.pe/es/i/2142975
+<ul>
+  <li>Video and slides available in: https://www.gob.pe/es/i/2142975</li>
+</ul>
 <p>“Digital intervention in mental health in Latin America”, interviewer in panel, Science Journalism Forum 2nd Edition</p>
 <p>“Epidemiology and science for journalists”, organizer and interviewer in open-access course in response to COVID-19 pandemic and infodemic, APCIENCIA: https://apcienciaperu.wordpress.com/curso-de-epidemiologia-y-ciencias-para-periodistas/</p>
 <h2>Websites and informatics</h2>
 <p>LATAM group, capacity building network for Latin American researchers</p>
-- Member and communications and IT support
-- Developed group's website: grupolatamblog.wordpress.com
+<ul>
+  <li>Member and communications and IT support</li>
+  <li>Developed group's website: grupolatamblog.wordpress.com</li>
+</ul>
 <p>Educational module about health issues related to El Niño phemenon: https://vigilanciaoiis.github.io/modulo_01/index.html</p>
 <p>Dashboard development in Microsoft Power BI</p>
 <h2>Publications</h2>
