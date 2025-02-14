@@ -1,8 +1,7 @@
 <html>
 <body>
 <p>I'm a Peruvian physician and epidemiologist with a passion for cancer and medical informatics</p>
-<p><i>Full CV upon request</i></p>
-<p>melissabenitonavarro@gmail.com</p>
+<p><i>Full CV upon request at <a href="melissabenitonavarro@gmail.com" target="_blank">melissabenitonavarro@gmail.com</a></i></p>
 <h1>Work experience</h1>
 <p>Peruvian Social Health Insurance - EsSalud</p>
 <ul>
