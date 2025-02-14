@@ -4,6 +4,7 @@ author:
   name: Melissa Benito
   twitter: melissabenito
   picture: /assets/images/melissabenito.jpg
+github_username: melissabenito
 remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
 - jekyll-remote-theme
