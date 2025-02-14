@@ -1,0 +1,5 @@
+title: Melissa Benito
+description: Personal website and portfolio
+remote_theme: mmistakes/jekyll-theme-basically-basic
+plugins:
+- jekyll-remote-theme
