@@ -30,11 +30,8 @@
 <p><i>Full list upon request</i></p>
 <h1>Academic outputs</h1>
 <h2>Presentations</h2>
-<p>“Correct filling of the Death Certificate”, lecturer in online training, Peruvian Medical Association, 2022</p>
-<p>“Datathon to prevent the third wave”, National Platform of Open Data, member of participating team, 2021</p>
-<ul>
-  <li>Video and slides available <a href="https://www.gob.pe/es/i/2142975" target="_blank">here</a></li>
-</ul>
+<p><a href="https://fb.watch/xLg2uaVsvF/" target="_blank">“Correct filling of the Death Certificate”</a>, lecturer in online training, Peruvian Medical Association, 2022</p>
+<p>“Datathon to prevent the third wave”, National Platform of Open Data, member of participating team, 2021. Video and slides available at: <a href="https://www.gob.pe/es/i/2142975" target="_blank">https://www.gob.pe/es/i/2142975</a></p>
 <p><a href="https://sciencejf.com/slots/digital-intervention-in-mental-health-in-latin-america/" target="_blank">“Digital intervention in mental health in Latin America”</a>, interviewer in panel, Science Journalism Forum 2nd Edition, 2023</p>
 <p><a href="https://apcienciaperu.wordpress.com/curso-de-epidemiologia-y-ciencias-para-periodistas/" target="_blank">“Epidemiology and science for journalists”</a>, organizer and interviewer in open-access course in response to COVID-19 pandemic and infodemic, Asociación Peruana de Periodistas y Comunicadores de Ciencia APCIENCIA</p>
 <h2>Websites and informatics</h2>
