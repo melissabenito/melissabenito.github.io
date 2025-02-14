@@ -1,5 +1,9 @@
 title: Melissa Benito
 description: Personal website and portfolio
+author:
+  name: Melissa Benito
+  twitter: melissabenito
+  picture: /assets/images/melissabenito.jpg
 remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
 - jekyll-remote-theme
