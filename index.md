@@ -51,8 +51,71 @@ layout: home
 <p>Lazo-Porras M, Liu H, Ouyang M, Yin X, Malavera A, Bressan T, Guzman-Vilca WC, Pacheco N, Benito M, et al. Process evaluation of complex interventions in non-communicable and neglected tropical diseases in low- and middle-income countries: a scoping review. BMJ Open. 2022;12:e057597. DOI: 10.1136/bmjopen-2021-057597</p>
 <h1>Skills</h1>
 <h2>Languages</h2>
-<p>Spanish (native), English (fluent), German (fluent), French (intermediate), Italian (basic), Quechua (basic)</p>
+<p>I am passionate about language learning. So far, I speak the following:</p>
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>Spanish</td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>Fluent</td>
+  </tr>
+  <tr>
+    <td>German</td>
+    <td>Fluent</td>
+  </tr>
+  <tr>
+    <td>French</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Italian</td>
+    <td>Beginner</td>
+  </tr>
+  <tr>
+    <td>Quechua</td>
+    <td>Beginner</td>
+  </tr>
+</table>
 <h2>Software</h2>
-<p>R (intermediate), Microsoft Power BI (intermediate), SQL Server (basic), Adobe Illustrator (intermediate), Microsoft PowerPoint (intermediate), Microsoft Word (intermediate), Microsoft Excel (advanced)</p>
+<table>
+  <tr>
+    <th>Software</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>R programming language</td>
+    <td>Intermediate use for data processing</td>
+  </tr>
+  <tr>
+    <td>Microsoft Power BI</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>SQL Server</td>
+    <td>Basic</td>
+  </tr>
+  <tr>
+    <td>Adobe illustrator</td>
+    <td>Intermediate, infographics design, vectorizing</td>
+  </tr>
+  <tr>
+    <td>Microsoft PowerPoint</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Microsoft Word</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Microsoft Excel</td>
+    <td>Advanced</td>
+  </tr>
+</table>
 </body>
 </html>
