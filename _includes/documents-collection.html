@@ -1,0 +1,7 @@
+{% for item in site[include.collection] %}
+  <div class="collection-item">
+    <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+    <p>{{ item.excerpt }}</p> <!-- Displays excerpt instead of full content -->
+    <a href="{{ item.url }}">Read more</a>
+  </div>
+{% endfor %}
