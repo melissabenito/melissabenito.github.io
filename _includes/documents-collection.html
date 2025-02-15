@@ -1,7 +1,23 @@
+{% assign entries = site[include.collection] %}
+
+{% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'date' %}
+  {% endif %}
+{% endif %}
+
 {% for item in site[include.collection] %}
   <div class="collection-item">
-    <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p>{{ item.excerpt }}</p> <!-- Displays excerpt instead of full content -->
-    <a href="{{ item.url }}">Read more</a>
+    <h2>{{ item.title }}</h2>
+    <p>{{ item.excerpt }}</p>
+    <p>Read more</p>
   </div>
 {% endfor %}
