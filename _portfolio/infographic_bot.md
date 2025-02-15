@@ -2,6 +2,7 @@
 title: "Infographic - Burden of treatment"
 image: 
   path: /assets/images/burden_of_treatment.png
+layout: default
 ---
 
 <html>
