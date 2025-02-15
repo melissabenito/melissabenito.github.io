@@ -7,6 +7,7 @@ author:
   picture: /assets/images/melissabenito.jpg
 github_username: melissabenito
 twitter_username: melissabenito
+page_excerpts: true
 remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
 - jekyll-remote-theme
