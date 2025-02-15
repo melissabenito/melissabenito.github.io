@@ -1,5 +1,6 @@
 ---
 ---
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'night' }}";
 
 @import "basically-basic";
 .container {
