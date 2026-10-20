@@ -1,3 +1,6 @@
-skin: night
+skin: sea
 navigation_pages:
   - portfolio.html
+google_fonts:
+  - name: "Open Sans"
+    weights: "400,400i,600,600i"
